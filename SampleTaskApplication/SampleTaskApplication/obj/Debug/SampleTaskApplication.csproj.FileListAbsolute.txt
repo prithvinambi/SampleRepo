@@ -1,0 +1,4 @@
+C:\Users\prithvi_nambi\Documents\Visual Studio 2010\Projects\SampleTaskApplication\SampleTaskApplication\bin\SampleTaskApplication.dll
+C:\Users\prithvi_nambi\Documents\Visual Studio 2010\Projects\SampleTaskApplication\SampleTaskApplication\bin\SampleTaskApplication.pdb
+C:\Users\prithvi_nambi\Documents\Visual Studio 2010\Projects\SampleTaskApplication\SampleTaskApplication\obj\Debug\SampleTaskApplication.dll
+C:\Users\prithvi_nambi\Documents\Visual Studio 2010\Projects\SampleTaskApplication\SampleTaskApplication\obj\Debug\SampleTaskApplication.pdb
