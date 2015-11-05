@@ -9,9 +9,9 @@ namespace SampleConsoleApplication
     {
         public static void CommonUtilMethod() 
         {
-            Console.WriteLine("!!!!!!!!!!!!!! ----------------- !!!!!!!!!!!!!!");
+            Console.WriteLine("!!!!!!!!!!!!!! --------*--------- !!!!!!!!!!!!!!");
             Console.WriteLine("Output from SampleConsoleApp Util method");
-            Console.WriteLine("!!!!!!!!!!!!!! ----------------- !!!!!!!!!!!!!!");
+            Console.WriteLine("!!!!!!!!!!!!!! --------*--------- !!!!!!!!!!!!!!");
         }
     }
 }
