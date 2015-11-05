@@ -1,0 +1,10 @@
+------
+
+A Desert is 1000KM long. A Camel and 3000 bananas are there at one end. You have to get as many bananas as possible to the other end by carrying them on that camel.
+Camel constraints...
+1) It will eat 1 banana for each kilometer even if it is not carrying any bananas(i.e it needs one banana for just to walk 1km)
+2) It cannot carry more than 1000 bananas
+------
+
+Given 10 points. Draw five straight lines and arrange the 10 points on them so that each straight line has 4 points on it.
+-----
