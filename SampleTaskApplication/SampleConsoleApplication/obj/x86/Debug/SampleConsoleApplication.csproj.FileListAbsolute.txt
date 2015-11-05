@@ -1,0 +1,4 @@
+D:\GitHub_Repo\SampleProject\trunk\SampleTaskApplication\SampleConsoleApplication\bin\Debug\SampleConsoleApplication.exe
+D:\GitHub_Repo\SampleProject\trunk\SampleTaskApplication\SampleConsoleApplication\bin\Debug\SampleConsoleApplication.pdb
+D:\GitHub_Repo\SampleProject\trunk\SampleTaskApplication\SampleConsoleApplication\obj\x86\Debug\SampleConsoleApplication.exe
+D:\GitHub_Repo\SampleProject\trunk\SampleTaskApplication\SampleConsoleApplication\obj\x86\Debug\SampleConsoleApplication.pdb
